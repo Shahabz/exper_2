@@ -1,0 +1,53 @@
+{
+  "data":[{
+    "Prize_Title": "First Prize",
+    "Prize_Amount": "Tablet",
+    "Prize_Ticket_Number": "112222334455",
+    "SlotsValues": [11,22,22,33,44,55]
+},
+{
+    "Prize_Title": "Second Prize",
+    "Prize_Amount": "Tablet",
+    "Prize_Ticket_Number": "112222334455",
+    "SlotsValues": [11,22,66,33,44,55]
+},
+{
+    "Prize_Title": "Third Prize",
+    "Prize_Amount": "Tablet",
+    "Prize_Ticket_Number": "112222334455",
+    "SlotsValues": [21,22,22,33,44,55]
+  
+},
+{
+    "Prize_Title": "Third Prize",
+    "Prize_Amount": "Tablet",
+    "Prize_Ticket_Number": "112222334455",
+    "SlotsValues": [23,22,22,33,44,55]
+},
+{
+    "Prize_Title": "Third Prize",
+    "Prize_Amount": "Tablet",
+    "Prize_Ticket_Number": "112222334455",
+    "SlotsValues": [15,22,22,33,44,55]
+},
+{
+    "Prize_Title": "Third Prize",
+    "Prize_Amount": "Tablet",
+    "Prize_Ticket_Number": "112222334455",
+    "SlotsValues": [44,22,22,33,44,55]
+},
+{
+    "Prize_Title": "Third Prize",
+    "Prize_Amount": "Tablet",
+    "Prize_Ticket_Number": "112222334455",
+    "SlotsValues": [25,22,22,33,44,55]
+},
+{
+    "Prize_Title": "Third Prize",
+    "Prize_Amount": "Tablet",
+    "Prize_Ticket_Number": "112222334455",
+    "SlotsValues": [15,22,22,33,44,55]
+}
+
+]
+}
